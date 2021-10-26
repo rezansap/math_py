@@ -20,7 +20,7 @@
 ![Gambar 5](screenshot/flowchart.PNG)
 
 ### jika ingin menampilkan hanya 2 angka pecahan dibelakang koma, maka bisa menambahkan fungsi format()
-### dibawah ini kita tambahkan fungsi format(luas,'2f') untuk menghasilkan 2 angka pevahan saja
+### dibawah ini kita tambahkan fungsi format(luas,'2f') untuk menghasilkan 2 angka pecahan saja
 ![Gambar 6](screenshot/math_2.PNG)
 
 ### dan jika program dijalankan, maka hasilnya akan seperti ini
