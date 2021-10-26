@@ -24,4 +24,4 @@
 ![Gambar 6](screenshot/math_2.PNG)
 
 ### dan jika program dijalankan, maka hasilnya akan seperti ini
-![Gambar 7](sccreenshot/output_2.PNG)
+![Gambar 7](screenshot/output_2.PNG)
