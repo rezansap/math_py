@@ -11,7 +11,7 @@
 
 ### dan program yang kita tulis sebagai berikut ini
 ![Gambar 3](screenshot/code_math.PNG)
-### dengan keterangan syntax /t merupakan espace atau untuk membuat tab, agar sama dengan didalam output sejajar dan berjarak.
+### dengan keterangan syntax \t merupakan espace atau untuk membuat tab, agar sama dengan didalam output sejajar dan berjarak.
 
 ### hasil dari program yang kita tulis adalah sebagai berikut
 ![Gambar 4](screenshot/output.PNG)
